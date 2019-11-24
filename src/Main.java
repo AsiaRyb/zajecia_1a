@@ -1,6 +1,6 @@
 
 
-import java.security.KeyPair;
+//import java.security.KeyPair;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -8,7 +8,7 @@ import java.util.List;
 public class Main {
     public static String zwrocImie(Integer case1){
         //Integer case1 = 5;
-        String imie = 1;
+        String imie = "";
         switch (case1){
             case 1: imie = "Kasia"; break;
             case 5: imie = "Tomek"; break;
